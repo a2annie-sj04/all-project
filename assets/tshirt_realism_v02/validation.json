@@ -1,0 +1,15 @@
+{
+  "fbx_reimport": "passed",
+  "size_cm": [
+    9.109999611973763,
+    9.888434037566185,
+    0.6319969310425222
+  ],
+  "mesh_parts": 22,
+  "pbr_images": [
+    "Cotton_BaseColor",
+    "Cotton_Normal",
+    "Cotton_Roughness"
+  ],
+  "scope": "Blender import and dimensions only; no Max/Unreal or cloth simulation validation"
+}

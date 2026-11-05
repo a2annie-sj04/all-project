@@ -1,0 +1,18 @@
+{
+  "L_Front": {
+    "socket_shell_triangle_intersections": 79,
+    "adjacent_component_bounds_overlap": true
+  },
+  "R_Front": {
+    "socket_shell_triangle_intersections": 79,
+    "adjacent_component_bounds_overlap": true
+  },
+  "L_Rear": {
+    "socket_shell_triangle_intersections": 79,
+    "adjacent_component_bounds_overlap": true
+  },
+  "R_Rear": {
+    "socket_shell_triangle_intersections": 79,
+    "adjacent_component_bounds_overlap": true
+  }
+}

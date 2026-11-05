@@ -1,0 +1,871 @@
+{
+  "asset_files": 173,
+  "total_bytes": 317442045,
+  "files": [
+    {
+      "path": "assets/bedroom_v01/Bedroom_v01.blend",
+      "bytes": 10488504,
+      "sha256": "c874fe6dfe91b96c629c71aa2b1ec84e5090402473d95f6d5c8d88ac7e44b9aa"
+    },
+    {
+      "path": "assets/bedroom_v01/Bedroom_v01.blend1",
+      "bytes": 10510668,
+      "sha256": "90385dd91e69c3528ababde40c1330ab07f88ffce9f12bff3c75d90d17137687"
+    },
+    {
+      "path": "assets/bedroom_v01/Bedroom_v01.glb",
+      "bytes": 7707428,
+      "sha256": "be0a952a5692f94887e5a850559ca082389261742516ce99862585c1aeaf26dc"
+    },
+    {
+      "path": "assets/bedroom_v01/Bedroom_v01_cm.fbx",
+      "bytes": 7399932,
+      "sha256": "f8c830aa751d1b7e1d582f213077a1950aa3bd09f32c624c1f9878c908fb0f36"
+    },
+    {
+      "path": "assets/bedroom_v01/Bedroom_with_case_reference.blend",
+      "bytes": 14383248,
+      "sha256": "d7857616c57fb1918638b5c4dce0a9e70371ad549db7161af82af8e54e4403ed"
+    },
+    {
+      "path": "assets/bedroom_v01/Bedroom_with_case_reference.blend1",
+      "bytes": 14383248,
+      "sha256": "ef7e47010b8746923d163bec97a2a78743ec6339c350d7dcba771a02c5b52bcb"
+    },
+    {
+      "path": "assets/bedroom_v01/README_KO.md",
+      "bytes": 4447,
+      "sha256": "0cb0fb63c1b69d372cb741589c859d8e29e7e8857cc9c24fb582ef3b7dbe7589"
+    },
+    {
+      "path": "assets/bedroom_v01/add_ceiling.py",
+      "bytes": 1824,
+      "sha256": "ba2032f89c6f0beebc65992fe886327bda2ca46b5653543d2525a436acb17946"
+    },
+    {
+      "path": "assets/bedroom_v01/build_room.py",
+      "bytes": 23000,
+      "sha256": "a42f85b402eb6a42ecd14e6070aec0b0614e2deb18a4ab693f0bb54377647ff0"
+    },
+    {
+      "path": "assets/bedroom_v01/case_placement_validation.json",
+      "bytes": 211,
+      "sha256": "083d571fecc5a3a05c852557f65d7a1759c16b4bbcc4fa1f25ed33f1e0059aef"
+    },
+    {
+      "path": "assets/bedroom_v01/display_layout_reference.json",
+      "bytes": 1293,
+      "sha256": "77cc34c85cd31c805744b8cdcea436fa9bcbb40740a30a2bbe836a49b8ae9a0f"
+    },
+    {
+      "path": "assets/bedroom_v01/display_left_256x192.png",
+      "bytes": 102950,
+      "sha256": "cc60fce8ab5e5597cd5022db6f12a258fc4c15f6bc231eb848e307b6598c5464"
+    },
+    {
+      "path": "assets/bedroom_v01/display_right_256x192.png",
+      "bytes": 103836,
+      "sha256": "eaaca899374e46ca8741ccedf1bbc6c66df47328f3accc5682647a4cced891be"
+    },
+    {
+      "path": "assets/bedroom_v01/place_reference_case.py",
+      "bytes": 2694,
+      "sha256": "65dd73ae1290dc466cfc7391d095d9fab906a67bca1008902bc1d2c65b9a0bb0"
+    },
+    {
+      "path": "assets/bedroom_v01/preview_bed_detail.png",
+      "bytes": 2355573,
+      "sha256": "92459fb3879bd3a4569da6737b4bff33796fc42ba6575ee3d24aaadb88d878f0"
+    },
+    {
+      "path": "assets/bedroom_v01/preview_room.png",
+      "bytes": 1849503,
+      "sha256": "27c14f2ca3d947fd4f192bc6012413d2d9a0c28e44d0607a097a77684d9faf2f"
+    },
+    {
+      "path": "assets/bedroom_v01/preview_room_with_case.png",
+      "bytes": 1992819,
+      "sha256": "05b864cfdccdde2471205ce01cdf18e233b0a52e0072411d032269e3fa26f0cd"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Ivory_Bedding_BaseColor.png",
+      "bytes": 80927,
+      "sha256": "23a4f8c4a4e317cd74f9b7b7561c3e50c4db15325c72d2b80b562cd532d19f5a"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Ivory_Bedding_Normal.png",
+      "bytes": 2149,
+      "sha256": "aed495881a57b3b10f97719c635895118c657b74ffa2a9f34dea6bbcc0274dc6"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Ivory_Bedding_Roughness.png",
+      "bytes": 60659,
+      "sha256": "1bbe1d2acc006528af165214d329b5d8d2a8258b5951584bcd2dc220d852fabe"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Linen_Curtain_BaseColor.png",
+      "bytes": 78616,
+      "sha256": "07f4e9d4e2ecb5b523a8d176bcf5da3e475baff48ee7c3b54b576a3167713c64"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Linen_Curtain_Normal.png",
+      "bytes": 2149,
+      "sha256": "aed495881a57b3b10f97719c635895118c657b74ffa2a9f34dea6bbcc0274dc6"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Linen_Curtain_Roughness.png",
+      "bytes": 60597,
+      "sha256": "9ca0264ad141a177ddb6f1195736dc46f8132e487a1acc1a60f27b5b8f8baca1"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Natural_Oak_BaseColor.png",
+      "bytes": 65296,
+      "sha256": "f6bb4e4d8821f37e6ddd42930d1ce57de71e64cfba18c02406c6b880246bfc69"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Natural_Oak_Normal.png",
+      "bytes": 25938,
+      "sha256": "315b609166cdb7fdf475262b5ffea033eef315706ed68feb551cb25b4082f593"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Natural_Oak_Roughness.png",
+      "bytes": 58778,
+      "sha256": "9bbe26eb562b0c9c2b3d19435a5cbe775c43c95526192d15cc47e8dc7d08096f"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Oat_Linen_BaseColor.png",
+      "bytes": 72569,
+      "sha256": "f78a0db3c36a192abbc0bf1efad0c1d583d678d4aab697590127d9c1a0f1fbc1"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Oat_Linen_Normal.png",
+      "bytes": 2149,
+      "sha256": "aed495881a57b3b10f97719c635895118c657b74ffa2a9f34dea6bbcc0274dc6"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Oat_Linen_Roughness.png",
+      "bytes": 60558,
+      "sha256": "bd25b7909a84d3f4a7f1c7f91b54e2a782c749bb82667e1ca933a9de381d0010"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Sage_Duvet_BaseColor.png",
+      "bytes": 62336,
+      "sha256": "50b4cafd9cf3b7ecb5b02c179916166e07e0a7549346f33d7aae3dbc140d56bf"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Sage_Duvet_Normal.png",
+      "bytes": 2149,
+      "sha256": "aed495881a57b3b10f97719c635895118c657b74ffa2a9f34dea6bbcc0274dc6"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Sage_Duvet_Roughness.png",
+      "bytes": 60543,
+      "sha256": "c7943c31a5013bdd5e552914c205022d4e555c2dfe19b013f5e1a964529ff363"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/WallArt_Graphic.png",
+      "bytes": 7822,
+      "sha256": "10a70c507ea74ec8daa0118dea13249e9b9e0c5b1ab2e14172f8f4de3a4d3332"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Walnut_Joinery_BaseColor.png",
+      "bytes": 50330,
+      "sha256": "80a126c5d5cb10bd69b9173782deb69e5c8124e763b1298750cc383b81e3db83"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Walnut_Joinery_Normal.png",
+      "bytes": 25938,
+      "sha256": "315b609166cdb7fdf475262b5ffea033eef315706ed68feb551cb25b4082f593"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Walnut_Joinery_Roughness.png",
+      "bytes": 58764,
+      "sha256": "2c0170bfad7b67fcf6c5de2d2dce744c4c9a2e403a6ab6cafc9e17ca6745e458"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Warm_Plaster_BaseColor.png",
+      "bytes": 77174,
+      "sha256": "db2fd594520981082319881dbc1c2d97f8ea7e809f9e406750d543cbdd443947"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Warm_Plaster_Normal.png",
+      "bytes": 69123,
+      "sha256": "04cbc5d06dea7d9fb203aac7e4865da18142689a56a60175fa5b103775b4462d"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Warm_Plaster_Roughness.png",
+      "bytes": 60572,
+      "sha256": "c4700d5878dc4e36fb26b8c6b75ad2411dab110662e9b77b1bec88cd8f4597d9"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Wool_Rug_BaseColor.png",
+      "bytes": 68510,
+      "sha256": "83bfa6001c98cd123fd5eac1e3be4325efefaeca39076dd45230209c8ae24da7"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Wool_Rug_Normal.png",
+      "bytes": 2149,
+      "sha256": "aed495881a57b3b10f97719c635895118c657b74ffa2a9f34dea6bbcc0274dc6"
+    },
+    {
+      "path": "assets/bedroom_v01/textures/Wool_Rug_Roughness.png",
+      "bytes": 60860,
+      "sha256": "61147a3c7ac2fa06dce24f6f9aa0e1ee77bdbdeda26901925c40ecd3bae7f288"
+    },
+    {
+      "path": "assets/bedroom_v01/validate_room.py",
+      "bytes": 2821,
+      "sha256": "48d2bddb195bb529d150bc8959726dc1f732caf2492b54cd1d710af364910f63"
+    },
+    {
+      "path": "assets/bedroom_v01/validation.json",
+      "bytes": 509,
+      "sha256": "c140c1fa2488377c11229f8b073c685ef7e3c9f8d63b2b86447d1635c1efec92"
+    },
+    {
+      "path": "assets/bedroom_v01.zip",
+      "bytes": 24078123,
+      "sha256": "44c0caf5ddf14e74eec5ef812123bdc05b2da6c0800c41224baee5141eae18bd"
+    },
+    {
+      "path": "assets/suitcase/README_KO.md",
+      "bytes": 2260,
+      "sha256": "1973e753d8fa5fa1c0bbd8029ca58280c8d0f6977cb565aa747fb0616d6c28d0"
+    },
+    {
+      "path": "assets/suitcase/build_suitcase.py",
+      "bytes": 6859,
+      "sha256": "bdf49a052570c306bd2e1f62cafb65de3f2e65cba6cdc750621bc1bc9d76c848"
+    },
+    {
+      "path": "assets/suitcase/preview_closed.png",
+      "bytes": 1628609,
+      "sha256": "aae946dc2c839c8cd981d83c819a3a5b80908a4a743fbab4cde8fd389e092cb0"
+    },
+    {
+      "path": "assets/suitcase/preview_open.png",
+      "bytes": 1854516,
+      "sha256": "506c1d3d16e8166e005673cf928756a47d6f4b7592e5927c1ee7b2eec5159605"
+    },
+    {
+      "path": "assets/suitcase/suitcase_skyblue.blend",
+      "bytes": 1281612,
+      "sha256": "e9d92a811c3a44d177c714bcf1aa233f8e7b734213e4d4be8518ad42ddc0dfd6"
+    },
+    {
+      "path": "assets/suitcase/suitcase_skyblue.blend1",
+      "bytes": 1281452,
+      "sha256": "7dc264d44f236bab69322c1c78ad3e3862174404237fdde1a9f7fccabf7387b1"
+    },
+    {
+      "path": "assets/suitcase/suitcase_skyblue.glb",
+      "bytes": 1309684,
+      "sha256": "ee7dbc3ff053a11db249579f69a07e57481428e2093b0f1cb3e7b03b8298e60d"
+    },
+    {
+      "path": "assets/suitcase/suitcase_skyblue_cm.fbx",
+      "bytes": 1069852,
+      "sha256": "26292d7f9525501bf886807f0581785c3d609ac1cbede3ff7af203ad792df0a8"
+    },
+    {
+      "path": "assets/suitcase_v01.zip",
+      "bytes": 4100270,
+      "sha256": "614ef917ba61d562b6bcb23e5e304ab3facad6d924b42a3289c0528c260f5dcc"
+    },
+    {
+      "path": "assets/suitcase_v02/README_KO.md",
+      "bytes": 3018,
+      "sha256": "7cd35131e327da58ed51cd5f456235ef2b6596d576bfc85e1b8e7c3d20ac94f1"
+    },
+    {
+      "path": "assets/suitcase_v02/build_suitcase.py",
+      "bytes": 9235,
+      "sha256": "780a4e1ac48b7522e07d879486bd662cce5ae96226ce911c2c8f5011a335da1c"
+    },
+    {
+      "path": "assets/suitcase_v02/preview_closed.png",
+      "bytes": 1745527,
+      "sha256": "45571fd868714645fd22523ec9b9b06cff08b35b25129c03469c8b75c2eb5451"
+    },
+    {
+      "path": "assets/suitcase_v02/preview_open.png",
+      "bytes": 1877664,
+      "sha256": "0c889715961e04d616f25e5c69a489448043ff7625e55df54f80b822990c8e8c"
+    },
+    {
+      "path": "assets/suitcase_v02/suitcase_skyblue.blend",
+      "bytes": 1692140,
+      "sha256": "56199ea3fc474fc428a4083764354ec789214e0c677bc86627f4c855057039d9"
+    },
+    {
+      "path": "assets/suitcase_v02/suitcase_skyblue.blend1",
+      "bytes": 1692140,
+      "sha256": "b0ea032ac757ce3dbafaa31cdb96c8c7da143b092c1d2f26c015e018e69c1f16"
+    },
+    {
+      "path": "assets/suitcase_v02/suitcase_skyblue.glb",
+      "bytes": 1019944,
+      "sha256": "e9fd77eccbc7963d3bcd423a3f037661344ae817b475c44bad610d10af75ea65"
+    },
+    {
+      "path": "assets/suitcase_v02/suitcase_skyblue_cm.fbx",
+      "bytes": 892860,
+      "sha256": "6f28f8d2e743098cadf3e9bfed674dc14a187cc9c2b598afb65c897f861919bd"
+    },
+    {
+      "path": "assets/suitcase_v02/validate.py",
+      "bytes": 1331,
+      "sha256": "9c9614d3ac0d49537501eadb88f4b3e36418d84cc51e49d45352c4ae16b241d8"
+    },
+    {
+      "path": "assets/suitcase_v02/validation.json",
+      "bytes": 182,
+      "sha256": "2c5ea4077aff7945cb7ca1603cd0be37b765bfa3fc95afcf1be1dabc22810640"
+    },
+    {
+      "path": "assets/suitcase_v02.zip",
+      "bytes": 4247662,
+      "sha256": "c6bf862f58f37e5ca47c861dc614881957531509eef6a414e847d4dac8adf437"
+    },
+    {
+      "path": "assets/suitcase_v03/README_KO.md",
+      "bytes": 3940,
+      "sha256": "3c0d5588ba207144c7e98617dda88bc1d0a0303ece9af9a74c9f1961eb385f11"
+    },
+    {
+      "path": "assets/suitcase_v03/build_suitcase.py",
+      "bytes": 11789,
+      "sha256": "4df8c54b222990015aa23fabbe9faaae7a775c4abcf66df7b4310c0fd7338b6c"
+    },
+    {
+      "path": "assets/suitcase_v03/check_fit.py",
+      "bytes": 1014,
+      "sha256": "02f7f44451b6ea37bd12e7690244d1ba2359da9c101558849d13088cad425ca4"
+    },
+    {
+      "path": "assets/suitcase_v03/corner_fit_validation.json",
+      "bytes": 167,
+      "sha256": "6e5e84199c312a8177636c1013508d166eb0ae50aed237c8cc350b029788ba8c"
+    },
+    {
+      "path": "assets/suitcase_v03/preview_closed.png",
+      "bytes": 1743260,
+      "sha256": "ee7b86864fd9d189665e3a58d393a7cbad73b45af65c5738a203229eb165c495"
+    },
+    {
+      "path": "assets/suitcase_v03/preview_corner_detail.png",
+      "bytes": 1550057,
+      "sha256": "9d9b13e27d40c5611fb2703ecdf578a11b61683da5a7936db0afb002d4f74c69"
+    },
+    {
+      "path": "assets/suitcase_v03/preview_open.png",
+      "bytes": 1875446,
+      "sha256": "5279ef0cff3d02e70db13d185e442ecea9d4c945731d5d629b5568334dbe6c7e"
+    },
+    {
+      "path": "assets/suitcase_v03/suitcase_skyblue.blend",
+      "bytes": 2343292,
+      "sha256": "0d1b54c32d35450b7491866a684a4ac18bc5bf4ff09cb8ac64cac2031e5ac066"
+    },
+    {
+      "path": "assets/suitcase_v03/suitcase_skyblue.blend1",
+      "bytes": 2374668,
+      "sha256": "103dadf1033113d5b48e489a3ea56055d5c3015988bbb7bf208a7a50fe1f6451"
+    },
+    {
+      "path": "assets/suitcase_v03/suitcase_skyblue.glb",
+      "bytes": 1983712,
+      "sha256": "9858420997e7a407c9e367fed2899f274c32a289f33a4bf12a41ed966a11875d"
+    },
+    {
+      "path": "assets/suitcase_v03/suitcase_skyblue_cm.fbx",
+      "bytes": 1774636,
+      "sha256": "59047ae6913889100f3fae4af96d35784d9396fff1c342be015f7cf0bb4e6e5d"
+    },
+    {
+      "path": "assets/suitcase_v03/validate.py",
+      "bytes": 1331,
+      "sha256": "9c9614d3ac0d49537501eadb88f4b3e36418d84cc51e49d45352c4ae16b241d8"
+    },
+    {
+      "path": "assets/suitcase_v03/validation.json",
+      "bytes": 182,
+      "sha256": "2c5ea4077aff7945cb7ca1603cd0be37b765bfa3fc95afcf1be1dabc22810640"
+    },
+    {
+      "path": "assets/suitcase_v03.zip",
+      "bytes": 6592921,
+      "sha256": "d5808ec29f54719cfdd3dbe9e83d5900a508450e945990aff48ba871260c4ba4"
+    },
+    {
+      "path": "assets/suitcase_v04/README_KO.md",
+      "bytes": 4756,
+      "sha256": "b272169b92e26e29cb46d6678bbb37a79be20f1a3321efa603bcb7e52aaf9849"
+    },
+    {
+      "path": "assets/suitcase_v04/build_suitcase.py",
+      "bytes": 12699,
+      "sha256": "998ec55788bda45961977bf353e6adc6fdd7c5df9cafee834e9f2717f7bf2744"
+    },
+    {
+      "path": "assets/suitcase_v04/check_fit.py",
+      "bytes": 1014,
+      "sha256": "02f7f44451b6ea37bd12e7690244d1ba2359da9c101558849d13088cad425ca4"
+    },
+    {
+      "path": "assets/suitcase_v04/check_wheel_attachment.py",
+      "bytes": 1553,
+      "sha256": "35d9c9d7657b4fd7c0696586429e01da764262a851b195b9708d0ebf4e3cb70e"
+    },
+    {
+      "path": "assets/suitcase_v04/preview_closed.png",
+      "bytes": 1747562,
+      "sha256": "d146df141ed866b938c3f0be6cb424a72a9ac00c8c02de53b262783813618c59"
+    },
+    {
+      "path": "assets/suitcase_v04/preview_corner_detail.png",
+      "bytes": 1550082,
+      "sha256": "a61ce999fe1a2e05b3b066e2567b621c47263d241b6dedd4f429827f0876a152"
+    },
+    {
+      "path": "assets/suitcase_v04/preview_open.png",
+      "bytes": 1876969,
+      "sha256": "7bf640f0b8825ea57467cf07c7dd732401fdab445cd272a0d9bab9cfbfa5eb8a"
+    },
+    {
+      "path": "assets/suitcase_v04/preview_wheel_attachment.png",
+      "bytes": 1981473,
+      "sha256": "9cf81f621295c5d998e3c336ab0aecb3b604ffc3ba6d3bf075c2b489a0f941c4"
+    },
+    {
+      "path": "assets/suitcase_v04/suitcase_skyblue.blend",
+      "bytes": 2601404,
+      "sha256": "af86e02d21ea71d4cc26438647002c79850f3cd2c8686a2c217d2c72e840f0d7"
+    },
+    {
+      "path": "assets/suitcase_v04/suitcase_skyblue.glb",
+      "bytes": 2456080,
+      "sha256": "081ab47d0de7bb46ec7852e3841ce19413a8778cbdd4bbce06d8227ec375fd2b"
+    },
+    {
+      "path": "assets/suitcase_v04/suitcase_skyblue_cm.fbx",
+      "bytes": 2153212,
+      "sha256": "0145ec4b2aab7c22fc5a36cd22f34e245d39b809237fa20e7cad5dbe6e0a42d1"
+    },
+    {
+      "path": "assets/suitcase_v04/validate.py",
+      "bytes": 1331,
+      "sha256": "9c9614d3ac0d49537501eadb88f4b3e36418d84cc51e49d45352c4ae16b241d8"
+    },
+    {
+      "path": "assets/suitcase_v04/validation.json",
+      "bytes": 182,
+      "sha256": "2c5ea4077aff7945cb7ca1603cd0be37b765bfa3fc95afcf1be1dabc22810640"
+    },
+    {
+      "path": "assets/suitcase_v04/wheel_attachment_validation.json",
+      "bytes": 452,
+      "sha256": "1e823044f826ef6d43b33c313350d7f1cdbb4e4456d1530012c982c4e3627fbf"
+    },
+    {
+      "path": "assets/suitcase_v04.zip",
+      "bytes": 8759654,
+      "sha256": "1fbc580f4c913e96680b6b0ebf2daad6eff183516c78da6607a5f96fa9a6540f"
+    },
+    {
+      "path": "assets/suitcase_v05/README_KO.md",
+      "bytes": 2564,
+      "sha256": "cd8e169b5e3add801c066f2867809a0cd897be1661713610227fa204ad6936b6"
+    },
+    {
+      "path": "assets/suitcase_v05/build_suitcase.py",
+      "bytes": 23238,
+      "sha256": "ccc2e8e9baaf6444fc641b16beb038f7a869903193ea36b62c3778117e7bc03b"
+    },
+    {
+      "path": "assets/suitcase_v05/check_interior.py",
+      "bytes": 1754,
+      "sha256": "a36a3183887c52a47ecd4bf4ebb43a609699d153adc12a164e7c0311dc23defa"
+    },
+    {
+      "path": "assets/suitcase_v05/check_wheel_attachment.py",
+      "bytes": 1553,
+      "sha256": "35d9c9d7657b4fd7c0696586429e01da764262a851b195b9708d0ebf4e3cb70e"
+    },
+    {
+      "path": "assets/suitcase_v05/finish_housing.py",
+      "bytes": 1945,
+      "sha256": "782ca0a3da0338d711a5979ba6c35f6da6ebca291be2250f94752be46668494f"
+    },
+    {
+      "path": "assets/suitcase_v05/finish_portable.py",
+      "bytes": 1313,
+      "sha256": "ee9789865a065b86ed6084a208af129ebda6c50588f8985546d15821b6809817"
+    },
+    {
+      "path": "assets/suitcase_v05/interior_validation.json",
+      "bytes": 228,
+      "sha256": "a506ade0b902bee322bee29aaeddb984793c2f84f121f4bdd8031de9c4af9d26"
+    },
+    {
+      "path": "assets/suitcase_v05/preview_closed.png",
+      "bytes": 1747590,
+      "sha256": "073890b56bad6f92a5010be965e2dea829144451d26dc7180ce91838949f69b2"
+    },
+    {
+      "path": "assets/suitcase_v05/preview_lid_interior.png",
+      "bytes": 1790739,
+      "sha256": "2c5382efc5ca88759ee51b8677cb710ea76fb6091c2b50d45dca8abbc806184c"
+    },
+    {
+      "path": "assets/suitcase_v05/preview_main_interior.png",
+      "bytes": 1874012,
+      "sha256": "5a825d8f6ee1f943a0ee3eca21f9ae09e945072bce034a89b5fcb4d521ad95e1"
+    },
+    {
+      "path": "assets/suitcase_v05/preview_open.png",
+      "bytes": 1823380,
+      "sha256": "61adc3d8de8c4e09632295f22cbc13b181263b597a319ca7af1b96a98665e410"
+    },
+    {
+      "path": "assets/suitcase_v05/suitcase_interior_open.blend",
+      "bytes": 4067340,
+      "sha256": "8b09e01e42e0fc414c7ab51c41ee31111dbb804cdda8ae5e35c469b231b97756"
+    },
+    {
+      "path": "assets/suitcase_v05/suitcase_interior_open.blend1",
+      "bytes": 4047376,
+      "sha256": "2503db667414b1798e19acad20bee7bd2c7616f9fe34556bc1c50c9c12cd7814"
+    },
+    {
+      "path": "assets/suitcase_v05/suitcase_skyblue.blend",
+      "bytes": 4067340,
+      "sha256": "0d3c72f7b8840c54eb75be331052bd53ec431ea45f01013788fd31f9d0310839"
+    },
+    {
+      "path": "assets/suitcase_v05/suitcase_skyblue.blend1",
+      "bytes": 4047376,
+      "sha256": "6c929c6d5402c887035138be21e9c2bb7a7537e784080e82289415b088cbf215"
+    },
+    {
+      "path": "assets/suitcase_v05/suitcase_skyblue.glb",
+      "bytes": 4220296,
+      "sha256": "768040c71789320f5bf03cd9a88c06ccf47d8a4464a3b7f6531019b389b03351"
+    },
+    {
+      "path": "assets/suitcase_v05/suitcase_skyblue_cm.fbx",
+      "bytes": 2965564,
+      "sha256": "1d3d7b5d386a74c55b8856662c2ddde1ecab857a56cf37bf5398a1d3efdf0311"
+    },
+    {
+      "path": "assets/suitcase_v05/textures/lining_weave.png",
+      "bytes": 8647,
+      "sha256": "bea9c0f40442b5208a62f143325f61bb901dfdf9522254a6de469b260b5ec62f"
+    },
+    {
+      "path": "assets/suitcase_v05/textures/webbing_weave.png",
+      "bytes": 9010,
+      "sha256": "310812643fa2b5d86754f8971dfe4f6ae0edb91861d35072727ef739c65ea7d7"
+    },
+    {
+      "path": "assets/suitcase_v05/validate.py",
+      "bytes": 1331,
+      "sha256": "9c9614d3ac0d49537501eadb88f4b3e36418d84cc51e49d45352c4ae16b241d8"
+    },
+    {
+      "path": "assets/suitcase_v05/validation.json",
+      "bytes": 182,
+      "sha256": "2c5ea4077aff7945cb7ca1603cd0be37b765bfa3fc95afcf1be1dabc22810640"
+    },
+    {
+      "path": "assets/suitcase_v05/wheel_attachment_validation.json",
+      "bytes": 452,
+      "sha256": "1e823044f826ef6d43b33c313350d7f1cdbb4e4456d1530012c982c4e3627fbf"
+    },
+    {
+      "path": "assets/suitcase_v05.zip",
+      "bytes": 10701719,
+      "sha256": "916e604c3870d0c07977686dc6d7e9c36c27dbf14aecad74e47cfcbea24e4466"
+    },
+    {
+      "path": "assets/travel_props_v01/BaseballCap_cm.fbx",
+      "bytes": 726188,
+      "sha256": "ac5af82351d3b80f05b500f5a256092bf3e3af3049db517385eb5e4d3e7dd519"
+    },
+    {
+      "path": "assets/travel_props_v01/BaseballCap_cm.glb",
+      "bytes": 875028,
+      "sha256": "c00c5b13ba959a7bdfaf7f21ea434b1fad60c85c5bdd986ed48ff2e33f1023be"
+    },
+    {
+      "path": "assets/travel_props_v01/Folded_Pants_cm.fbx",
+      "bytes": 596156,
+      "sha256": "855f8b83a8ddd5e2e719923c8b6e9f7cc7939aeb10726f7da873f479535c2cac"
+    },
+    {
+      "path": "assets/travel_props_v01/Folded_Pants_cm.glb",
+      "bytes": 632812,
+      "sha256": "b1a0577ece79664b3aa8ecd3223815b78303374ced3fbe7e5a01629bb0deec21"
+    },
+    {
+      "path": "assets/travel_props_v01/Folded_TShirt_cm.fbx",
+      "bytes": 818188,
+      "sha256": "2a4ffcf51e4df851d3c09b2c0fb170a41bdb0ea3edbd651f6a81b5a9feb24948"
+    },
+    {
+      "path": "assets/travel_props_v01/Folded_TShirt_cm.glb",
+      "bytes": 848668,
+      "sha256": "b75eea56df5459092d64c6f6b5fb5b8105fbe7202e231ac6d13e37be79b080f3"
+    },
+    {
+      "path": "assets/travel_props_v01/README_KO.md",
+      "bytes": 2863,
+      "sha256": "1457b34623a2cc939b9ebdf1f4a98f88420ab5c2e80513a5787147d9744f88e6"
+    },
+    {
+      "path": "assets/travel_props_v01/Sneaker_Left_cm.fbx",
+      "bytes": 539468,
+      "sha256": "591531d8d1da959248d97c02c3ba5b81855dd0036d73a3f5c9f99dc3e3833001"
+    },
+    {
+      "path": "assets/travel_props_v01/Sneaker_Left_cm.glb",
+      "bytes": 653112,
+      "sha256": "08bc99c4eb87c7f2f7809e4428143f7fe3d73549b34b75a127bd1e2f38631f2b"
+    },
+    {
+      "path": "assets/travel_props_v01/Sneaker_Right_cm.fbx",
+      "bytes": 539516,
+      "sha256": "fb9e4dd98ac5c1f831dd911c4906722f3077f9600539857089b8979470b2afbc"
+    },
+    {
+      "path": "assets/travel_props_v01/Sneaker_Right_cm.glb",
+      "bytes": 651048,
+      "sha256": "916050f647f46a37ddfa9a795a1a99fdf297992ae8cdcfef0a1aff393d652069"
+    },
+    {
+      "path": "assets/travel_props_v01/ToiletryPouch_cm.fbx",
+      "bytes": 696668,
+      "sha256": "c529a09e1068088fed8aabdbbdc054d4c1eb506c13a16d3ef97cd2cf97f72826"
+    },
+    {
+      "path": "assets/travel_props_v01/ToiletryPouch_cm.glb",
+      "bytes": 954596,
+      "sha256": "ddae60208bee16239a9b92e828c8e3ad06d37f6d0066273e0c9e7f3a50d20bd9"
+    },
+    {
+      "path": "assets/travel_props_v01/asset_manifest.json",
+      "bytes": 2524,
+      "sha256": "39cbe7cbd730823e319f81e7c5882e2a431720e5c0778facfef63b0eb0f2e2af"
+    },
+    {
+      "path": "assets/travel_props_v01/build_props.py",
+      "bytes": 20042,
+      "sha256": "937ffb12562bedd821dcef1c707d7454cb4c46618bc22e9fe2649bcc325b8291"
+    },
+    {
+      "path": "assets/travel_props_v01/export_validation.json",
+      "bytes": 1489,
+      "sha256": "302c1755f6b06b043c13c8f6f92060ede8ab5949e2f355f55b39f145183159e5"
+    },
+    {
+      "path": "assets/travel_props_v01/packing_check.py",
+      "bytes": 2791,
+      "sha256": "0410f51a824ec5e34c7cdd393e473070a2523fe00a8ba093b1919bef97bd72f3"
+    },
+    {
+      "path": "assets/travel_props_v01/packing_layout.blend",
+      "bytes": 10076836,
+      "sha256": "ae160a696e1861c2fbc49801c5dca9e1f8678ecd787fc3befa7fa4356ef8588d"
+    },
+    {
+      "path": "assets/travel_props_v01/packing_layout.blend1",
+      "bytes": 9921072,
+      "sha256": "8b0f771522be6008e7cb66a1bb85cc2cc3277a6b76a43be9592237458cb94fd1"
+    },
+    {
+      "path": "assets/travel_props_v01/packing_validation.json",
+      "bytes": 4628,
+      "sha256": "93ff8b8ff1157ff3eb81993eb41b97271eb1257fd45d882db51f2d752a276103"
+    },
+    {
+      "path": "assets/travel_props_v01/preview_BaseballCap_cm.png",
+      "bytes": 1205396,
+      "sha256": "fa563a7e08497c18ab109773289275c9c89ffb57e63485a3f0200c2d396cf526"
+    },
+    {
+      "path": "assets/travel_props_v01/preview_Folded_Pants_cm.png",
+      "bytes": 1245854,
+      "sha256": "5fee531f6f422d9506a9a836de0c4e29854e148278b3e32eb083a4a6cc044ca8"
+    },
+    {
+      "path": "assets/travel_props_v01/preview_Folded_TShirt_cm.png",
+      "bytes": 1150125,
+      "sha256": "8321e51f04647f84dba7940d4cef62b65989f672cf2c0504d10bd8fe25e94839"
+    },
+    {
+      "path": "assets/travel_props_v01/preview_Sneaker_Left_cm.png",
+      "bytes": 1195899,
+      "sha256": "6708429956b8c4dd3d79d2435fd2023880a78bdb1fdee4ab8d0beff3367af7a1"
+    },
+    {
+      "path": "assets/travel_props_v01/preview_Sneaker_Right_cm.png",
+      "bytes": 1185664,
+      "sha256": "8e8ac42f19af95ebd1a4b546ed6449f7f4ddd38a6e059589d48124513f185970"
+    },
+    {
+      "path": "assets/travel_props_v01/preview_ToiletryPouch_cm.png",
+      "bytes": 1212366,
+      "sha256": "dcd7b6aef7ffc8ebba405aed4414a1dc75100858b829bb3ff43eb2d27203337c"
+    },
+    {
+      "path": "assets/travel_props_v01/preview_all.png",
+      "bytes": 1803766,
+      "sha256": "7a4d966f5025299cae2aab36c979eded896dbd9e099511409a72f10176d2d435"
+    },
+    {
+      "path": "assets/travel_props_v01/preview_packing.png",
+      "bytes": 2125771,
+      "sha256": "90afcc26643ac06ba3504278e352cf7de480e4defdc25c045fc2fdf54ab6593e"
+    },
+    {
+      "path": "assets/travel_props_v01/refine_cloth.py",
+      "bytes": 3636,
+      "sha256": "dc82cf2e547ba13fb786c3af5f68d2743f77757b2310264b6b5fcfd31e1bd841"
+    },
+    {
+      "path": "assets/travel_props_v01/refine_contacts.py",
+      "bytes": 7017,
+      "sha256": "94aae91dfa37d1ef63f3a8f08aad563c8befc022b21faf71d46cbf3ac7a0512f"
+    },
+    {
+      "path": "assets/travel_props_v01/refine_laces.py",
+      "bytes": 2719,
+      "sha256": "bcfb8258a0724bd4779205972fe009a81943cc0d67244c5ab5aa12c48e51fe66"
+    },
+    {
+      "path": "assets/travel_props_v01/textures/Cap_Sand_Twill.png",
+      "bytes": 3636,
+      "sha256": "6376f1fe8e6c28104e1746f697cbd6e1fde9750b139a84ceac99b6e65a3dc984"
+    },
+    {
+      "path": "assets/travel_props_v01/textures/Cotton_Laces.png",
+      "bytes": 4264,
+      "sha256": "3c0c3cba386f05d68ef42e5ae74edcaab6fa70c9c568d6996d4896cf7113fa0a"
+    },
+    {
+      "path": "assets/travel_props_v01/textures/Cream_Cotton.png",
+      "bytes": 4058,
+      "sha256": "7618f1256c8c717c86113a52711beb7089e01d30d633f327baa797ec384f9b9c"
+    },
+    {
+      "path": "assets/travel_props_v01/textures/Denim_Indigo.png",
+      "bytes": 6161,
+      "sha256": "f99d5eb0783eec2f9efe35396d858670bba60d5c8fb06654b86cdc0b33d74459"
+    },
+    {
+      "path": "assets/travel_props_v01/textures/Pouch_Sage_Nylon.png",
+      "bytes": 3976,
+      "sha256": "7ce47f68b36b362921f0d3056da19579e092ec4ca45a9f12dc09f7aec55ddbc3"
+    },
+    {
+      "path": "assets/travel_props_v01/textures/Shoe_Lining.png",
+      "bytes": 4939,
+      "sha256": "487d03e024477f3aa8ec2f78114f13041f3aeeaa90d1b4b041582937d5417a49"
+    },
+    {
+      "path": "assets/travel_props_v01/travel_props_studio.blend",
+      "bytes": 6204520,
+      "sha256": "36ae995bed2fadf826bb57db928a72e0a20f72fd28ec17582948c5fb6ebe4408"
+    },
+    {
+      "path": "assets/travel_props_v01/travel_props_studio.blend1",
+      "bytes": 6204520,
+      "sha256": "3c0bb014b3c4553b33484ea54811feff6d548980d29b423be6da07d147a72b1a"
+    },
+    {
+      "path": "assets/travel_props_v01/validate_exports.py",
+      "bytes": 1111,
+      "sha256": "5e8d0a48155ffdfe7f38d744faa82e0ed234f5d7f90438a660d502fa619715da"
+    },
+    {
+      "path": "assets/travel_props_v01.zip",
+      "bytes": 19099357,
+      "sha256": "c3f55c65c7d3e98106f0997b7b88d7eaf5eb8959f87e2eb6cace76386a03e05d"
+    },
+    {
+      "path": "assets/tshirt_realism_v02/README_KO.md",
+      "bytes": 1573,
+      "sha256": "d918d61846741ace98e999890b7be51fef3c7a51a0cf48640c654e194de82e63"
+    },
+    {
+      "path": "assets/tshirt_realism_v02/TShirt_Folded_Realism_v02.blend",
+      "bytes": 7481940,
+      "sha256": "e67dbef9a66cde682e5c29986402a1c089a545f5dc74c2df1d2e9dbbc73c5bf4"
+    },
+    {
+      "path": "assets/tshirt_realism_v02/TShirt_Folded_Realism_v02.glb",
+      "bytes": 5201828,
+      "sha256": "34122d924cb9ef7f6a329ace01733f150f726f1dde8a451a8a7c37fb3990b371"
+    },
+    {
+      "path": "assets/tshirt_realism_v02/TShirt_Folded_Realism_v02_cm.fbx",
+      "bytes": 5777196,
+      "sha256": "f274d1640725050787f638e37e412648f8415b731e18f13c56d8ed3b3b15cb6e"
+    },
+    {
+      "path": "assets/tshirt_realism_v02/build_tshirt.py",
+      "bytes": 12470,
+      "sha256": "a2cdb2f382fae61eb6c4943f8f5e862eec383c3a53d8a75e89cf832ab0a37dfc"
+    },
+    {
+      "path": "assets/tshirt_realism_v02/dimensions.json",
+      "bytes": 314,
+      "sha256": "35913da3639e45a95b9e57419bb06c66bc116508404998469f9e4f06678190ee"
+    },
+    {
+      "path": "assets/tshirt_realism_v02/preview_collar_detail.png",
+      "bytes": 1280241,
+      "sha256": "16ca2848e65c3bf1e227edcbdb1bf361c62269919a0ddb903a1cf91671f93bf4"
+    },
+    {
+      "path": "assets/tshirt_realism_v02/preview_fold_detail.png",
+      "bytes": 1213420,
+      "sha256": "135d4b79d1d028f8ac589907e8156252307959be70cb4e4587bcac3f3737d66c"
+    },
+    {
+      "path": "assets/tshirt_realism_v02/preview_overall.png",
+      "bytes": 1655452,
+      "sha256": "1d8c111d89ef11551409cc64d6f2c3416446dd1c080351b29a770ae502c2e167"
+    },
+    {
+      "path": "assets/tshirt_realism_v02/textures/Cotton_BaseColor.png",
+      "bytes": 280768,
+      "sha256": "7d7c3793d2f046d8e622164d262dd60d9eec45184d07aecda66398ccdd28b423"
+    },
+    {
+      "path": "assets/tshirt_realism_v02/textures/Cotton_Normal.png",
+      "bytes": 16053,
+      "sha256": "6bb97ac00669e372cfa2142d77acff29ab2b0c41c2eab71b6c256be58d5e407a"
+    },
+    {
+      "path": "assets/tshirt_realism_v02/textures/Cotton_Roughness.png",
+      "bytes": 212196,
+      "sha256": "b8c8ea1787b3f881566cc874be9ffa79fc613b6b9c769096c6de468ccea22711"
+    },
+    {
+      "path": "assets/tshirt_realism_v02/validate.py",
+      "bytes": 1314,
+      "sha256": "ac14a8dc147567bbe513984fa69eba4a5b050c79905cb460cb6c3b0e0515505d"
+    },
+    {
+      "path": "assets/tshirt_realism_v02/validation.json",
+      "bytes": 325,
+      "sha256": "641d9b33fcc4b058aaa3b7460cc5fcdd7b3b2beba4acb9a33e9de344c89382ce"
+    },
+    {
+      "path": "assets/tshirt_realism_v02.zip",
+      "bytes": 15972617,
+      "sha256": "6b13101869415f0d2f135eefa0db77c8b22e171c92d7f9e082a58d4d59d7edd5"
+    }
+  ]
+}

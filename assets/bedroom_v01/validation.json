@@ -1,0 +1,22 @@
+{
+  "duvet_mattress_triangle_intersections": 0,
+  "fbx_reimport": "passed",
+  "mesh_count": 529,
+  "bed_frame_dimensions_cm": [
+    36.500001091510015,
+    42.500000957399564,
+    2.9999999329447746
+  ],
+  "source_packed_images": 25,
+  "offaxis_camera_corner_projection": [
+    {
+      "screen": "Left",
+      "max_normalized_corner_error": 1.1920928955078125e-07
+    },
+    {
+      "screen": "Right",
+      "max_normalized_corner_error": 4.76837158203125e-07
+    }
+  ],
+  "unreal_or_hardware_tested": false
+}

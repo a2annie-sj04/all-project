@@ -1,0 +1,10 @@
+{
+  "Front": {
+    "guard_count": 4,
+    "max_skin_gap_cm": 0.03281416371464729
+  },
+  "Rear": {
+    "guard_count": 4,
+    "max_skin_gap_cm": 0.03281416371464729
+  }
+}

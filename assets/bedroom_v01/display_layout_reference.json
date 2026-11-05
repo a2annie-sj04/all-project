@@ -1,0 +1,79 @@
+{
+  "units": "cm",
+  "room_bounds": {
+    "x": [
+      -64,
+      0
+    ],
+    "y": [
+      0,
+      64
+    ],
+    "z": [
+      0,
+      48
+    ]
+  },
+  "observer": [
+    106.0660171508789,
+    -106.0660171508789,
+    24.0
+  ],
+  "screen_angle_degrees": 90,
+  "per_face_pixels": [
+    256,
+    192
+  ],
+  "output_strip_pixels": [
+    512,
+    192
+  ],
+  "unreal_runtime_tested": false,
+  "screens": [
+    {
+      "name": "Left",
+      "bottom_left": [
+        -64.0,
+        0.0,
+        0.0
+      ],
+      "bottom_right": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "top_left": [
+        -64.0,
+        0.0,
+        48.0
+      ],
+      "camera": "DISPLAY_Left_OffAxis",
+      "lens_mm": 59.66213607788086,
+      "shift_x": -2.1572813987731934,
+      "shift_y": 0.0
+    },
+    {
+      "name": "Right",
+      "bottom_left": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bottom_right": [
+        0.0,
+        64.0,
+        0.0
+      ],
+      "top_left": [
+        0.0,
+        0.0,
+        48.0
+      ],
+      "camera": "DISPLAY_Right_OffAxis",
+      "lens_mm": 59.66213607788086,
+      "shift_x": 2.1572813987731934,
+      "shift_y": 0.0
+    }
+  ],
+  "coordinate_system": "Blender source coordinates, right-handed Z-up; Unreal axis mapping requires checking after import"
+}

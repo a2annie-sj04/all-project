@@ -1,0 +1,68 @@
+[
+  {
+    "name": "PROP_Folded_TShirt_cm",
+    "mesh_count": 9,
+    "size_cm": [
+      9.31660458445549,
+      10.168563947081566,
+      1.013091893400997
+    ],
+    "max_dimension_error_cm": 5.811452865600586e-07,
+    "fbx_reimport": "passed"
+  },
+  {
+    "name": "PROP_Folded_Pants_cm",
+    "mesh_count": 14,
+    "size_cm": [
+      9.111997857689857,
+      10.47522947192192,
+      1.1441961163654923
+    ],
+    "max_dimension_error_cm": 6.854534149169922e-07,
+    "fbx_reimport": "passed"
+  },
+  {
+    "name": "PROP_Sneaker_Left_cm",
+    "mesh_count": 56,
+    "size_cm": [
+      3.2635063864290714,
+      8.933518081903458,
+      3.348093354725279
+    ],
+    "max_dimension_error_cm": 6.891787052154541e-07,
+    "fbx_reimport": "passed"
+  },
+  {
+    "name": "PROP_Sneaker_Right_cm",
+    "mesh_count": 56,
+    "size_cm": [
+      3.2635063864290714,
+      8.933518081903458,
+      3.348093354725279
+    ],
+    "max_dimension_error_cm": 6.891787052154541e-07,
+    "fbx_reimport": "passed"
+  },
+  {
+    "name": "PROP_ToiletryPouch_cm",
+    "mesh_count": 55,
+    "size_cm": [
+      7.978947460651398,
+      3.872484713792801,
+      3.086999978404492
+    ],
+    "max_dimension_error_cm": 1.7881393432617188e-07,
+    "fbx_reimport": "passed"
+  },
+  {
+    "name": "PROP_BaseballCap_cm",
+    "mesh_count": 29,
+    "size_cm": [
+      6.387875601649284,
+      8.205710351467133,
+      2.9900000081397593
+    ],
+    "max_dimension_error_cm": 5.21540641784668e-07,
+    "fbx_reimport": "passed"
+  }
+]

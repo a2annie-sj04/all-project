@@ -1,0 +1,9 @@
+{
+  "required_interior_meshes": 9,
+  "belt_wall_anchors": 4,
+  "mesh_pocket_has_real_lattice": true,
+  "divider_and_pocket_follow_lid": true,
+  "fabric_images_imported": 2,
+  "fbx_reimport": "passed",
+  "host": "Blender 4.3.2"
+}

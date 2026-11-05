@@ -1,0 +1,7 @@
+{
+  "uniform_scale": 0.48,
+  "samples": 5344,
+  "vertical_adjustment_cm": -0.03540859222412109,
+  "minimum_sampled_clearance_cm": 0.025,
+  "scope": "static mesh ray samples, not animation collision validation"
+}

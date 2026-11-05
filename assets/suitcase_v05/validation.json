@@ -1,0 +1,7 @@
+{
+  "fbx_reimport": "passed",
+  "front_casters_follow_lid": 2,
+  "rear_casters_stay_with_body": 2,
+  "lid_test_degrees": -115,
+  "tested_in": "Blender 4.3.2; not 3ds Max or Unreal"
+}
